@@ -1,0 +1,51 @@
+* {
+  margin: 0%;
+}
+
+div.header {
+  height: 100px;
+  width: 100%;
+  background-color: #645caa;
+}
+div.search {
+  margin-top: 10px;
+  height: 100px;
+  width: 100%;
+  background-color: #a084ca;
+}
+div.menu {
+  margin-top: 10px;
+  height: 100px;
+  width: 100%;
+  background-color: #bface0;
+}
+div.slider {
+  margin-top: 10px;
+  height: 100px;
+  width: 100%;
+  background-color: #ebc7e8;
+}
+div.sale {
+  margin-top: 10px;
+  height: 100px;
+  width: 100%;
+  background-color: #FFCCB3;
+}
+div.product{
+    margin-top: 10px;
+  height: 100px;
+  width: 100%;
+  background-color: #F29393;
+}
+div.type{
+    margin-top: 10px;
+  height: 100px;
+  width: 100%;
+  background-color: #F675A8;
+}
+div.price{
+    margin-top: 10px;
+    height: 100px;
+    width: 100%;
+    background-color: #554994;
+}
