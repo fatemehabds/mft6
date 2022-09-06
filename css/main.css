@@ -49,3 +49,21 @@ div.price{
     width: 100%;
     background-color: #554994;
 }
+div.post{
+    margin-top: 10px;
+    height: 100px;
+    width: 100%;
+    background-color: #B270A2;
+}
+div.confirm{
+    margin-top: 10px;
+    height: 100px;
+    width: 100%;
+    background-color: #F07DEA;
+}
+div.footer{
+    margin-top: 10px;
+    height: 100px;
+    width: 100%;
+    background-color: #ebc7e8;
+}
